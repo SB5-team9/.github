@@ -14,6 +14,7 @@
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 권지인 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 김수연 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 김찬혁 </b></sub></a><br /></td>
+    </tr>
   </tbody>
 </table>
 
@@ -22,7 +23,7 @@
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-#4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">

@@ -7,16 +7,13 @@
 
 ---
 ### 🧑‍💻 팀원 소개
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>팀장 : 정기주 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 권지인 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 김수연 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 김찬혁 </b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
+|                                   팀장                                   |                                   팀원                                    |                                   팀원                                   |                                   팀원                                    |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/96522559?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/77165598?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/217873189?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/91006942?v=4" width="100"> |
+|                    [정기주](https://github.com/jeonggiju)                     |                    [권지인](https://github.com/kjn4101)                     |                      [김수연](https://github.com/sooyeonz)                      |                   [김찬혁](https://github.com/chanhyeok0201)                 |
+
+
+
 
 ---
 ### ⚙️ 기술 스택

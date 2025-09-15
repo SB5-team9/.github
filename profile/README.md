@@ -74,8 +74,6 @@ Findex는 외부 Open API와 연동하여 금융 지수 데이터를 제공하�
 - **Open API parsing**
   - 성능 향상을 위해 배치 처리와 복합 조건으로 DB 조회
 
-'''
-
 ### 🟥 김찬혁  
 <img width="800" alt="김찬혁 작업 화면" src="https://github.com/user-attachments/assets/30b3355d-e4f1-4634-adc7-5608ef9fd2be" />
 
@@ -85,6 +83,7 @@ Findex는 외부 Open API와 연동하여 금융 지수 데이터를 제공하�
   - **JPA Specification** 기반 필터( indexInfoIdEq / enabledEq / idAfter ) & **커서 페이지네이션**
 
 ## 📂 파일 구조
+'''plaintext
  src
    ├─ main
    │  ├─ java

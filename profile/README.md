@@ -83,7 +83,7 @@ Findex는 외부 Open API와 연동하여 금융 지수 데이터를 제공하�
   - **JPA Specification** 기반 필터( indexInfoIdEq / enabledEq / idAfter ) & **커서 페이지네이션**
 
 ## 📂 파일 구조
-'''plaintext
+```
  src
    ├─ main
    │  ├─ java
@@ -218,7 +218,7 @@ Findex는 외부 Open API와 연동하여 금융 지수 데이터를 제공하�
                   └─ openApi
                      └─ controller
                         └─ AutoSyncConfigControllerTest.java
-'''
+```
 ---
 
 ## 📺구현 홈페이지**

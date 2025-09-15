@@ -221,13 +221,13 @@ Findex는 외부 Open API와 연동하여 금융 지수 데이터를 제공하�
 ```
 ---
 
-## 📺구현 홈페이지**
+## 📺구현 홈페이지
 
 https://findex-backend-production.up.railway.app/#/index-data
 
 ---
 
-## 📑프로젝트 회고록**
+## 📑프로젝트 회고록
 
 - 🎥시연 영상
 
